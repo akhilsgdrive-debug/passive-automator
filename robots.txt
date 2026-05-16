@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akhilsgdrive-debug.github.io/passive-automator/sitemap.xml
